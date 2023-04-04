@@ -1,0 +1,31 @@
+name: is2-notebooks
+channels:
+- conda-forge
+dependencies:
+- python=3.9
+- xarray>=2023.01
+- xarray-datatree
+- rioxarray>=0.3
+- earthaccess>=0.5.1
+- cfchecker
+- matplotlib-base>=3.3
+- cartopy>=0.18.0
+- netcdf4>=1.5
+- h5py>=3.2
+- dask
+- distributed
+- geopandas>=0.9
+- polars
+- jupyterlab>=3
+- jupytext
+- ipywidgets
+- ipympl
+- ipyleaflet
+- jupyterlab-geojson
+- jupyterlab-git
+- jupyter-resource-usage
+- jupyterlab-link-share
+- jupyterlab-h5web
+- gdal
+- voila
+
