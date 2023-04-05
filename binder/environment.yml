@@ -5,6 +5,7 @@ dependencies:
 - python=3.9
 - xarray>=2023.01
 - xarray-datatree
+- xarray-spatial
 - rioxarray>=0.3
 - earthaccess>=0.5.1
 - cfchecker
@@ -14,6 +15,9 @@ dependencies:
 - h5py>=3.2
 - dask
 - distributed
+- hvplot
+- datashader
+- geoviews
 - geopandas>=0.9
 - polars
 - jupyterlab>=3
