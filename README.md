@@ -7,6 +7,9 @@
 Jupyter notebooks to explore Icesat-2 datasets
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsidc/icesat2-notebooks/HEAD?labpath=notebooks)
+
+
 <a href="https://nsidc.org/sites/default/files/images/Data/ICESat2_DataProducts_2023.png">
   <img src="https://nsidc.org/sites/default/files/images/Data/ICESat2_DataProducts_2023.png" width="40%">
 </a>
