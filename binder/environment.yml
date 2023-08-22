@@ -5,11 +5,13 @@ dependencies:
 - python=3.9
 - xarray>=2023.01
 - xarray-datatree
+- h5netcdf
+- cmocean
 - xarray-spatial
 - rioxarray>=0.3
 - earthaccess>=0.5.1
 - cfchecker
-- matplotlib-base>=3.3
+- matplotlib-base>=3.7
 - cartopy>=0.18.0
 - netcdf4>=1.5
 - h5py>=3.2
@@ -20,6 +22,7 @@ dependencies:
 - geoviews
 - geopandas>=0.9
 - polars
+- geopandas
 - jupyterlab>=3
 - jupytext
 - ipywidgets

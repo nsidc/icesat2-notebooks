@@ -10,6 +10,9 @@ Jupyter notebooks to explore Icesat-2 datasets
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsidc/icesat2-notebooks/HEAD?labpath=notebooks)
 
 
+<a href="https://colab.research.google.com/github/nsidc/icesat2-notebooks/blob/main/collab-setup.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 <a href="https://nsidc.org/sites/default/files/images/Data/ICESat2_DataProducts_2023.png">
   <img src="https://nsidc.org/sites/default/files/images/Data/ICESat2_DataProducts_2023.png" width="40%">
 </a>
