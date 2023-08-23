@@ -2,12 +2,10 @@ name: is2-notebooks
 channels:
 - conda-forge
 dependencies:
-- python=3.9
+- python=3.10
 - xarray>=2023.01
-- xarray-datatree
 - h5netcdf
 - cmocean
-- xarray-spatial
 - rioxarray>=0.3
 - earthaccess>=0.5.1
 - cfchecker
@@ -21,7 +19,6 @@ dependencies:
 - datashader
 - geoviews
 - geopandas>=0.9
-- polars
 - geopandas
 - jupyterlab>=3
 - jupytext
@@ -34,5 +31,4 @@ dependencies:
 - jupyterlab-link-share
 - jupyterlab-h5web
 - gdal
-- voila
-
+- conda-lock
