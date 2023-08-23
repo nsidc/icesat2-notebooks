@@ -1,0 +1,22 @@
+name: is2-notebooks
+channels:
+- conda-forge
+dependencies:
+- xarray>=2023.01
+- h5netcdf
+- cmocean
+- rioxarray>=0.3
+- earthaccess>=0.5.1
+- cfchecker
+- matplotlib-base>=3.7
+- cartopy>=0.18.0
+- netcdf4>=1.5
+- h5py>=3.2
+- hvplot
+- datashader
+- geoviews
+- geopandas>=0.9
+- ipywidgets
+- ipympl
+- ipyleaflet
+- gdal
